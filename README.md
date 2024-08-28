@@ -97,8 +97,12 @@ Aids in Risk Management: By detailing all project tasks and deliverables, the WB
 8. Facilitates Decision-Making: With a clear schedule, project managers can make informed decisions about changes, adjustments, and resource needs based on the project's timeline and progress.
 9. Enhances Predictability: A detailed schedule improves predictability by setting realistic deadlines and providing a framework for assessing the impact of changes or delays on the overall project timeline.
 10. Improves Stakeholder Confidence: A well-structured schedule demonstrates project planning and control, increasing stakeholder confidence and trust in the project’s ability to deliver on time.
-11. 
+    
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+The software aims to address several key user needs:
+1. Service Requests: Users can request home services such as technicians, carpenters, electricians, and more, simplifying the process of finding and scheduling professional help.
+2. Local Hotel Listings: It provides a comprehensive list of hotels and their price in the user's area, making it easier to find and book accommodations.
+3. Food Ordering: Users can order food from local restaurants, streamlining the process of finding and enjoying meals from nearby eateries.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 Clearly defining the problem is crucial for developing an effective software solution. It ensures accurate requirements gathering, targets the right solution, and aligns design and development with user needs. This clarity helps manage scope, improves stakeholder communication, prioritizes critical features, and increases efficiency. It also boosts user satisfaction, supports effective testing, and provides benchmarks for measuring success, ensuring the solution is relevant and successful.
 
